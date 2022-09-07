@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <div class="player">
+    <apple-music-artwork id="center_artwork" width="750" lazyLoad="true"></apple-music-artwork>
+    <h1 class="songName"></h1>
+    <h2 class="artistName"></h2>
+    <apple-music-playback-controls></apple-music-playback-controls>
+    <apple-music-progress></apple-music-progress>
+    <apple-music-volume></apple-music-volume>
+  </div>
+
+  <div class="leftbar">
+    <div class="queue">
+      <h1>Queue</h1>
+      <div class="queueListContainer">
+        <ul class="queuelist" id="queuelist"></ul>
+      </div>
+    </div>
+    <div class="devices">
+      <button id="startNotifications" class="connectButton">Look for devices</button>
+      <h1>Connected Devices</h1>
+      <div class="devicesListContainer">
+        <ul id="devicelist"></ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="loader"></div>
+
+  <script type="text/javascript" src="script.js"></script>
+  <script src="https://js-cdn.music.apple.com/musickit/v3/musickit.js" data-web-components async></script>
+</body>
+</html>
