@@ -1,4 +1,4 @@
-[![Framework](https://img.shields.io/badge/web--bluetooth-beta-blue)](googlechrome/samples/tree/gh-pages/web-bluetooth)
+[![Framework](https://img.shields.io/badge/web--bluetooth-beta-blue)](https://github.com/googlechrome/samples/tree/gh-pages/web-bluetooth)
 ![Framework](https://img.shields.io/badge/musickit-beta-ff69b4)
 
 
