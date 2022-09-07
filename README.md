@@ -12,4 +12,4 @@ https://user-images.githubusercontent.com/9732247/188830087-e96eab15-0675-4716-9
 
 1. Apple Music developer token must be replaced under `'Enter token here'` in `script.js`
 2. Site must be hosted for Apple Music authentication to retrtieve a valid user token. Possibly might host it in the future
-3. Need the QueueItUp app to transmit songs. **Available here**
+3. Need the QueueItUp app to transmit songs. [Available Here](https://github.com/fares-soliman/queueitupapp)
