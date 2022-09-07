@@ -1,3 +1,7 @@
+[![Framework](https://img.shields.io/badge/web--bluetooth-beta-blue)](googlechrome/samples/tree/gh-pages/web-bluetooth)
+![Framework](https://img.shields.io/badge/musickit-beta-ff69b4)
+
+
 ![titlecard](https://user-images.githubusercontent.com/9732247/188838516-5d32276f-6ac3-4462-97ad-d6737e486fe8.PNG)
 
 https://user-images.githubusercontent.com/9732247/188830087-e96eab15-0675-4716-9dac-ba469b30134b.mp4
